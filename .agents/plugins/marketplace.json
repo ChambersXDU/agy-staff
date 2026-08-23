@@ -1,7 +1,7 @@
 {
   "name": "agy-staff",
   "interface": {
-    "displayName": "Agy Staff"
+    "displayName": "AGY Workers"
   },
   "plugins": [
     {
